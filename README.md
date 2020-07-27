@@ -1,8 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ashish</h1>
+<h1 align="center">Hey, This is Ashish</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asheeshcric" alt="asheeshcric" /> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=asheeshcric&show_icons=true" alt="asheeshcric" /> </p>
+
+<p align="center">
+<a href="https://twitter.com/ashiz2013" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ashiz2013" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/asheeshcric" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="asheeshcric" height="20" width="20" /></a>
+</p>
 
 
 

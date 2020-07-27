@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ashish</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asheeshcric" alt="asheeshcric" /> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=asheeshcric&show_icons=true" alt="asheeshcric" /> </p>
+
+
 
 <!--
 **asheeshcric/asheeshcric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

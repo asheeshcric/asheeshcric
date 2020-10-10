@@ -5,8 +5,9 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=asheeshcric&show_icons=true" alt="asheeshcric" /> </p>
 
 <p align="center">
-<a href="https://twitter.com/ashiz2013" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ashiz2013" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/asheeshcric" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="asheeshcric" height="20" width="20" /></a>
+  <a href="https://jashish.com.np" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/internetexplorer.svg" alt="jashish" height="20" width="20" /></a>
+  <a href="https://twitter.com/ashiz2013" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ashiz2013" height="20" width="20" /></a>
+  <a href="https://linkedin.com/in/asheeshcric" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="asheeshcric" height="20" width="20" /></a>
 </p>
 
 

@@ -1,4 +1,4 @@
-<h4>Hi, I'm Ashish, a Ph.D. student working in the intersection of machine learning and computer vision to enhance human-computer interaction. I enjoy exploring techniques that involve self-supervised learning where data itself provides supervision. I am also working with brain fMRI scans to predict fatigue levels in humans with/without Traumatic Brain Injury (TBI) while performing certain tasks</h4>
+<p>Hi, I'm Ashish, a Ph.D. student working in the intersection of machine learning and computer vision to enhance human-computer interaction. I enjoy exploring techniques that involve self-supervised learning where data itself provides supervision. I am also working with brain fMRI scans to predict fatigue levels in humans with/without Traumatic Brain Injury (TBI) while performing certain tasks.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asheeshcric" alt="asheeshcric" /> </p>
 

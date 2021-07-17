@@ -11,6 +11,7 @@
   <a href="https://jashish.com.np" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/internetexplorer.svg" alt="jashish" height="20" width="20" /></a>
   <a href="https://twitter.com/ashiz2013" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ashiz2013" height="20" width="20" /></a>
   <a href="https://linkedin.com/in/asheeshcric" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="asheeshcric" height="20" width="20" /></a>
+  <a href="https://scholar.google.com/citations?user=sCo50tYAAAAJ&hl=en" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="asheeshcric" height="20" width="20" /></a>
 </p>
 
 

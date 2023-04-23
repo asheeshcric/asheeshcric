@@ -1,4 +1,6 @@
-<p>Hi, I'm Ashish, a Ph.D. student working in the intersection of machine learning and computer vision to enhance human-computer interaction. I enjoy exploring techniques that involve self-supervised learning where data itself provides supervision. I am also working with brain fMRI scans to understand fatigue levels (along with the cause) in humans with/without Traumatic Brain Injury (TBI) while performing certain cognitive tasks.</p>
+<p>
+  Hi, I'm Ashish, a Ph.D. student working in the intersection of machine learning and computer vision to enhance human-computer interaction. With over four years of extensive research experience in machine learning and human-computer interaction, I am confident that I can deliver valuable insights through advanced data-driven methods and data analytics. My expertise in signal processing, statistical analysis, supervised and unsupervised machine learning (ML), and deep learning (DL) algorithms has enabled me to conduct classification and regression analysis on various data modalities successfully. My research focuses on applying self-supervised learning to obtain effective representations of high-dimensional data and combining multiple data modalities for better performance, which has been demonstrated through my 10+ publications and 600+ citations.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asheeshcric" alt="asheeshcric" /> </p>
 

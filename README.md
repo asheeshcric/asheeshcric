@@ -2,7 +2,9 @@
   Hi, I'm Ashish, a Ph.D. student working in the intersection of machine learning and computer vision to enhance human-computer interaction. With over <b>four years of extensive research experience</b> in machine learning and human-computer interaction, I am confident that I can deliver valuable insights through advanced data-driven methods and data analytics. My expertise in signal processing, statistical analysis, supervised and unsupervised machine learning (ML), and deep learning (DL) algorithms has enabled me to conduct classification and regression analysis on various data modalities successfully. My research focuses on applying self-supervised learning to obtain effective representations of high-dimensional data and combining multiple data modalities for better performance, which has been demonstrated through my <b>10+ publications</b> and <b>700+ citations</b>.
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asheeshcric" alt="asheeshcric" /> </p>
+<details>
+  <summary>More Details...</summary>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=asheeshcric" alt="asheeshcric" /> </p>
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=asheeshcric&count_private=true&show_icons=true&theme=radical" alt="asheeshcric"/>
@@ -32,3 +34,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</details>
